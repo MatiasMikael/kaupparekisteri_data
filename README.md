@@ -54,8 +54,7 @@ Purpose: Highlights areas of business concentration.
 
 ## License
 
-This work is licensed under the MIT License. However, the data fetched from the Kaupparekisteri API is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). More details on the API and licensing can be found on the PRH website.
-
+This work is licensed under the MIT License. However, the data fetched from the Kaupparekisteri API is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). More details on the API and licensing can be found on https://www.avoindata.fi/data/fi/apiset/kaupparekisterin-rekisteroidyt-ilmoitukset-api
 
 
 
